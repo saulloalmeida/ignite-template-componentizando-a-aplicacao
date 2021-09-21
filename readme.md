@@ -36,7 +36,7 @@ yarn dev
 Explicar como executar os testes automatizados para este sistema.
 
 ### 🔩 Como ficará a aplicação
- <img src="/example.png"/>
+ <img src="/exampleapp.png"/>
 
 
 ## 📦 Desenvolvimento
